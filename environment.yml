@@ -1,0 +1,9 @@
+name: xeus-python-kernel
+channels:
+  - https://mamba.pm
+  - conda-forge
+dependencies:
+  - xeus-python
+  - numpy
+  - pandas
+  - matplotlib
