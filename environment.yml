@@ -1,7 +1,7 @@
 name: xeus-python-kernel
 channels:
-  - https://mamba.pm
-  - conda-forge
+  - https://prefix.dev
+  - https://prefix.dev
 dependencies:
   - xeus-python
   - numpy
